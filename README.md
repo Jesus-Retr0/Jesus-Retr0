@@ -45,8 +45,10 @@
 
 ---
 
-<!--h3>📈 GitHub Stats</h3>
+<h3>📈 GitHub Stats</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesus-retr0&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p-->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jesus-retr0&theme=tokyonight" alt="Profile Details" height="260"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jesus-retr0&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-retr0&layout=compact&theme=tokyonight" alt="Most Used Languages" height="180"/>
+</p>
 
