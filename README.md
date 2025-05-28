@@ -45,8 +45,8 @@
 
 ---
 
-<h3>📈 GitHub Stats</h3>
+<!--h3>📈 GitHub Stats</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jesus-retr0&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
+</p-->
 
