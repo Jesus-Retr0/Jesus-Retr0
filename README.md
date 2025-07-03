@@ -69,6 +69,9 @@
   <a href="https://nodejs.org/" target="_blank">
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   </a>
+  <a href="https://ionicframework.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
+  </a>
 </p>
 
 ---
