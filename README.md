@@ -1,4 +1,4 @@
-![Upper Image](./assets/IMG-Git.png)
+![Upper Image](./assets/top-gif.gif)
 <h1 align="center">👋 Welcome I'm Jesus</h1>
 
 <p align="center">
@@ -62,7 +62,3 @@
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
   </a>
 </p>
-
----
-
-![Bottom Img](./assets/bottom-img.GIF)
