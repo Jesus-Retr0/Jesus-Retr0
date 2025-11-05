@@ -65,4 +65,4 @@
 
 ---
 
-![Bottom Img](./assets/IMG-GIT-1.jpeg)
+![Bottom Img](./assets/bottom-img.GIF)
