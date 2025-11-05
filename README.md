@@ -58,7 +58,7 @@
 <h2 align="center"> Support My Work</h2>
 
 <p align="center">
-  <a href="paypal.me/jesusretr0" target="_blank">
+  <a href="https://paypal.me/jesusretr0" target="_blank">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
   </a>
 </p>
