@@ -18,7 +18,7 @@
 <h2 align="center">🛠️ Languages & Tools</h2>
 
 <br />
-<p align="center">
+<p align="center" style="max-width: 700px;">
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.oracle.com/java/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" /></a>
@@ -45,7 +45,7 @@
 <h2 align="center">🚀 Frameworks & Technologies</h2>
 
 <br />
-<p align="center">
+<p align="center" style="max-width: 700px;">
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" /></a>
