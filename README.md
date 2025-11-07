@@ -71,7 +71,7 @@
 <h3>📈 GitHub Stats</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-retr0&layout=compact&theme=tokyonight&cache_seconds=1" alt="Most Used Languages" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jesus-retr0&show_icons=true&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=jesus-retr0&show_icons=true&theme=tokyonight&cache_seconds=1" height="180">
 </p>
 
 ---
