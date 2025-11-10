@@ -79,7 +79,7 @@
 
 <p align="center">
   <a href="https://ko-fi.com/jesus90040" target="_blank">
-  <img src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" 
+  <img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_red.png"
        alt="Support me on Ko-fi" width="200">
 </a>
 </p>
