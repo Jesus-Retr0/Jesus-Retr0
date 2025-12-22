@@ -74,12 +74,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jesus-retr0&show_icons=true&theme=tokyonight&cache_seconds=1" height="180">
 </p>
 
----
-<h2 align="center"> Support My Work</h2>
-
-<p align="center">
-  <a href="https://ko-fi.com/jesus90040" target="_blank">
-  <img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_red.png"
-       alt="Support me on Ko-fi" width="200">
-</a>
-</p>
