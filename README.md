@@ -65,20 +65,3 @@
   <a href="https://bitbucket.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="36" alt="Bitbucket" /></a>
 </p>
 
-
----
-
-<h3>📈 GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-retr0&layout=compact&theme=tokyonight&cache_seconds=1" alt="Most Used Languages" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jesus-retr0&show_icons=true&theme=tokyonight&cache_seconds=1" height="180">
-</p>
-
----
-<h2 align="center"> Support My Work</h2>
-
-<p align="center">
-  <a href="https://paypal.me/jesusretr0" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
-  </a>
-</p>
