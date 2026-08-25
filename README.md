@@ -13,11 +13,19 @@
 <img src="https://img.shields.io/github/followers/jesus-retr0?style=social">
 </div>
 
----
+<h2 align="center">💡 Have an Idea?</h2>
 
+<p align="center"> Have you ever thought <i>"I wish there was an app for this"</i>? </p>
+
+<p align="center"> I'm collecting real-world problems, ideas, and frustrations that could be solved with software.<br> You don't need to be a programmer or have a complete idea — just tell me about something<br> you wish were easier, faster, or better. </p>
+
+<p align="center"> <a href="https://forms.gle/oFsthofdYXjj6CNz9" target="_blank"> <img src="https://img.shields.io/badge/💡%20Submit%20an%20Idea-4285F4?style=for-the-badge" alt="Submit an Idea"> </a> </p>
+
+<p align="center"> <i>Your problem could become my next project.</i> 🚀 </p>
+
+---
 <h2 align="center">🛠️ Languages & Tools</h2>
 
-<br />
 <p align="center" style="max-width: 700px;">
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" /></a>
   &nbsp;&nbsp;&nbsp;
@@ -40,7 +48,6 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" /></a>
 </p>
 
----
 
 <h2 align="center">🚀 Frameworks & Technologies</h2>
 
